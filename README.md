@@ -2,15 +2,17 @@
 
 ## C= BASIC Many DOS Disk content show/edit
 
-### I got this idea from the many BAM readers and Sector Editors for the C=64.
+### This project idea is inspired from the many BAM readers and Sector Editors for the C=64.
 
-I found that most were for a specific drive type like the vanilla 1541 or the 1581.
+I found that most reader/editors were for a specific drive type like the vanilla 1541 or 1581.
 However, I was interested in seeing the BAM and sectors on my CMD 3.5 floppy.
 In finding out how to read a sector and the BAM from a CMD formatted disk,
 I found that there were ways to see the emulated partitions on the CMD and the RAW partition formats.
 
 I want to create a BAM/Sector Display/Editor that will be able work on the 1541 **and** other drives as well.
-Goals:
+
+####Goals:
+
 A. Be able to identify and read from any connected device either IEC or IEEE488
   * SFD-1001
   * MSD SD1/SD2
@@ -31,6 +33,7 @@ A. Be able to identify and read from any connected device either IEC or IEEE488
   * CMD HD-4GB
   * SD2IEC
   * Others...
+  
 B. Try and make the code portable to as many C= computers as possible
   * PET 4000/8000 series
   * B128

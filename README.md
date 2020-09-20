@@ -11,7 +11,7 @@ I found that there were ways to see the emulated partitions on the CMD and the R
 
 I want to create a BAM/Sector Display/Editor that will be able work on the 1541 **and** other drives as well.
 
-####Goals:
+#### Goals:
 
 A. Be able to identify and read from any connected device either IEC or IEEE488
   * SFD-1001

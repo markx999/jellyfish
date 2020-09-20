@@ -2,7 +2,7 @@
 C= BASIC Many DOS Disk content show/edit
 
 I got this idea from the many BAM readers and Sector Editors for the C=64.
-I fould that most of them were for a specific drive trpe like the vanilla 1541 or the 1581.
+I found that most of them were for a specific drive trpe like the vanilla 1541 or the 1581.
 I was interested in seeing the BAM and sectors on my CMD 3.5 floppy.
 I found that there were ways to see the emulated partitions on the CMD and the RAW formats as well.
 I want to create a BAM/Sector Display/Editor that will be able to not only work on the 1541.

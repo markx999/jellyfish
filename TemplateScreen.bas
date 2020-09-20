@@ -1,0 +1,25 @@
+1000 PRINT "{reverse on}{pink}{176}Trans{white}TrkSec{light gray}{178}Next{174}{reverse off}{yellow}{125}{reverse on}{176}Root{178}{178}DirP{178}{178}DirEnt@{174}";
+1010 PRINT "{reverse off}{reverse on}{pink}      {white}      {light gray}      {reverse off}{yellow}{125}{reverse on}                     ";
+1020 PRINT "{reverse off}{reverse on}{pink}      {cyan}{176}Data{174}{light green}{176}Load{174}{reverse off}{yellow}{125}{reverse on}{light gray}Part@Type{white}Current{reverse off}{yellow}{125}{reverse on}{light blue}Last";
+1030 PRINT "{reverse off}{reverse on}{pink}      {cyan}      {light green}      {reverse off}{yellow}{125}{reverse on}{light gray}         {dark gray} {white}   {dark gray} {white} {dark gray} {reverse off}{yellow}{125}{reverse on}{light blue}    ";
+1040 PRINT "{reverse off}{green}H{reverse on}{yellow} 0 1 2 3 4 5 6 7 8 9 A B C D E F{reverse off}{178}@{177}@@@@";
+1050 PRINT "{reverse on}0{light gray}                                {reverse off}{yellow}{125}{green}R{reverse on}{purple}ead  ";
+1060 PRINT "{reverse off}{reverse on}{yellow}1{light gray}                                {reverse off}{yellow}{125}{green}T{reverse on}{purple}oggle";
+1070 PRINT "{reverse off}{reverse on}{yellow}2{light gray}                                {reverse off}{yellow}{125}{green}E{reverse on}{purple}dit  ";
+1080 PRINT "{reverse off}{reverse on}{yellow}3{light gray}                                {reverse off}{yellow}{125}{green}F{reverse on}{purple}ollow";
+1090 PRINT "{reverse off}{reverse on}{yellow}4{light gray}                                {reverse off}{yellow}{125}{green}Q{reverse on}{purple}uit  ";
+1100 PRINT "{reverse off}{reverse on}{yellow}5{light gray}                                {reverse off}{yellow}{125}{reverse on}{purple}      ";
+1110 PRINT "{reverse off}{reverse on}{yellow}6{light gray}                                {reverse off}{yellow}{125}{reverse on}{purple}      ";
+1120 PRINT "{reverse off}{reverse on}{yellow}7{light gray}                                {reverse off}{yellow}{125}{reverse on}{purple}      ";
+1130 PRINT "{reverse off}{reverse on}{yellow}8{light gray}                                {reverse off}{yellow}{125}{reverse on}{purple}      ";
+1140 PRINT "{reverse off}{reverse on}{yellow}9{light gray}                                {reverse off}{yellow}{125}{reverse on}{purple}      ";
+1150 PRINT "{reverse off}{reverse on}{yellow}A{light gray}                                {reverse off}{yellow}{125}{reverse on}{purple}      ";
+1160 PRINT "{reverse off}{reverse on}{yellow}B{light gray}                                {reverse off}{yellow}{125}{reverse on}{purple}      ";
+1170 PRINT "{reverse off}{reverse on}{yellow}C{light gray}                                {reverse off}{yellow}{125}{reverse on}{purple}      ";
+1180 PRINT "{reverse off}{reverse on}{yellow}D{light gray}                                {reverse off}{yellow}{125}{reverse on}{purple}      ";
+1190 PRINT "{reverse off}{reverse on}{yellow}E{light gray}                                {reverse off}{yellow}{125}{reverse on}{purple}      ";
+1200 PRINT "{reverse off}{reverse on}{yellow}F{light gray}                                {reverse off}{yellow}{125}{reverse on}{purple}      ";
+1210 PRINT "{reverse off}{yellow}{173}@@@@@@@{178}@@@@@@@@@@@@@@@@@@{178}@@@@@{177}@@@@@@";
+1220 PRINT "{reverse on}{light blue}Pa  {light gray}Fmt {reverse off}{yellow}{125}{reverse on}{light gray}Nm                {reverse off}{yellow}{125}{reverse on}{light gray}ID  DOS Fmt ";
+1230 PRINT "{reverse off}{reverse on}{light green}Type   {reverse off}<*{reverse on}Name                BlkSz      ";
+1240 PRINT "{reverse off}{reverse on}{pink}Pa    Nm                Of      Sz      "

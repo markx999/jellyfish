@@ -43,7 +43,7 @@
     <BuildList>
         <FileName>cmd_bk_dp_x.bas</FileName>
         <FileName>cmd_bk_dp_x-c64l.bas</FileName>
-        <FileName>TemplateScreen.bas</FileName>
+        <FileName>TemplateScreens.bas</FileName>
     </BuildList>
     <DetermineBuildOrder>0</DetermineBuildOrder>
     <PaddingByte>0</PaddingByte>
@@ -60,7 +60,7 @@
             <Regions />
             <Breakpoints />
             <Bookmarks />
-            <Topmost>True</Topmost>
+            <Topmost>False</Topmost>
             <FileOpen>False</FileOpen>
         </SourceFile>
         <SourceFile>
@@ -86,15 +86,15 @@
             <FileOpen>False</FileOpen>
         </SourceFile>
         <SourceFile>
-            <Name>TemplateScreen.bas</Name>
+            <Name>TemplateScreens.bas</Name>
             <PrgName />
             <FileType>1</FileType>
             <IncludeInBuild>True</IncludeInBuild>
             <Regions />
             <Breakpoints />
             <Bookmarks />
-            <Topmost>False</Topmost>
-            <FileOpen>False</FileOpen>
+            <Topmost>True</Topmost>
+            <FileOpen>True</FileOpen>
         </SourceFile>
     </SourceFiles>
 </Project>
